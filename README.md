@@ -3,7 +3,7 @@
 
 
 ## 短篇智能体
-- 5分钟一篇万字短篇
+- 5分钟一篇万字短文
 
 ### 1. 意图理解智能体
 ##### https://un7b7f68e5.feishu.cn/docx/TQeQd2ec1oIqKCxH8YPc5euJnpe?from=from_copylink
